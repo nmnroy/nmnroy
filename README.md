@@ -1,33 +1,107 @@
-# 💫 About Me:
-🔭 I'm currently working on<br>End-to-end AI-powered applications and data-driven solutions that bridge technology with real-world impact<br>👯 I'm looking to collaborate on<br>Innovative AI/ML projects, open-source tools, and full-stack applications with meaningful use cases<br>🤝 I'm looking for help with<br>Advanced model deployment, LLM optimization, and building production-ready AI pipelines<br>🌱 I'm currently learning<br>Generative AI, RAG architectures, MLOps, and scalable full-stack development with modern frameworks<br>💬 Ask me about<br>AI product building, hackathons, multimodal LLMs, data pipelines, and turning ideas into working prototypes fast<br>⚡ Fun fact<br>3rd year Data Science student who thrives at hackathons, loves shipping AI products, and believes the best way to learn is to build 🚀
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0533,70:6d28d9,100:a855f7&height=220&section=header&text=Naman%20Roy&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Hackathon%20Builder&descSize=20&descColor=c4b5fd&descAlignY=58" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nmn.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naman-roy-190105291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nroy21649@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nmnroy&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nmnroy&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmnroy&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;RAG+%7C+LLMs+%7C+MLOps+%7C+Full-Stack;Turning+hackathon+ideas+into+real+products+%E2%9A%A1;3rd+year+Data+Science+%40+building+mode+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nmnroy&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/nmnroy)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-roy-190105291/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://nmnroy.github.io/Personal_portfolio/)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nmnroy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ The Stack
 
-<!--
-**nmnroy/nmnroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,react,nextjs,nodejs,fastapi&perline=8)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI / ML Tools
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=8)](https://skillicons.dev)
+
+### Cloud, Infra & DevOps
+[![My Skills](https://skillicons.dev/icons?i=firebase,vercel,netlify,github,githubactions,vite&perline=8)](https://skillicons.dev)
+
+### Styling
+[![My Skills](https://skillicons.dev/icons?i=tailwind,css&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+naman = {
+    "pronouns":       "he/him",
+    "status":         "3rd year Data Science student @ building mode 🚀",
+    "working_on":     "End-to-end AI apps bridging tech with real-world impact",
+    "learning":       ["Generative AI", "RAG architectures", "MLOps", "Scalable full-stack"],
+    "ask_me_about":   ["AI product building", "Hackathons", "Multimodal LLMs", "Data pipelines"],
+    "looking_to":     "Collaborate on innovative AI/ML & open-source projects",
+    "fun_fact":       "Best way to learn? Just ship it. 🛠️",
+    "creed":          "If it can be AI-powered, I'll make it AI-powered."
+}
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nmnroy&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d0011" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=nmnroy&theme=midnight-purple&hide_border=true&background=0d0011" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmnroy&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0011" width="40%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nmnroy/nmnroy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nmnroy/nmnroy/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nmnroy/nmnroy/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/@__nmn.04-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nmn.04)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/naman--roy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-roy-190105291/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/nroy21649-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nroy21649@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://nmnroy.github.io/Personal_portfolio/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20learn%20is%20to%20build&author=Naman%20Roy" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
