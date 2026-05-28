@@ -40,18 +40,15 @@
 
 ## 🧠 About Me
 
-```python
-naman = {
-    "pronouns":       "he/him",
-    "status":         "3rd year Data Science student @ building mode 🚀",
-    "working_on":     "End-to-end AI apps bridging tech with real-world impact",
-    "learning":       ["Generative AI", "RAG architectures", "MLOps", "Scalable full-stack"],
-    "ask_me_about":   ["AI product building", "Hackathons", "Multimodal LLMs", "Data pipelines"],
-    "looking_to":     "Collaborate on innovative AI/ML & open-source projects",
-    "fun_fact":       "Best way to learn? Just ship it. 🛠️",
-    "creed":          "If it can be AI-powered, I'll make it AI-powered."
-}
-```
+| | |
+|---|---|
+| 🔭 **Working on** | End-to-end AI apps bridging tech with real-world impact |
+| 🌱 **Learning** | Generative AI · RAG architectures · MLOps · Scalable full-stack |
+| 👯 **Looking to collaborate on** | Innovative AI/ML projects & open-source tools |
+| 🤝 **Looking for help with** | LLM optimization & production-ready AI pipelines |
+| 💬 **Ask me about** | AI product building · Hackathons · Multimodal LLMs · Data pipelines |
+| ⚡ **Fun fact** | Best way to learn? Just ship it 🛠️ |
+| 🚀 **Creed** | *If it can be AI-powered, I'll make it AI-powered.* |
 
 ---
 
@@ -59,12 +56,12 @@ naman = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nmnroy&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d0011" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=nmnroy&theme=midnight-purple&hide_border=true&background=0d0011" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nmnroy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=nmnroy&theme=tokyonight&hide_border=true" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmnroy&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d0011" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmnroy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
 
 </div>
 
