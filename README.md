@@ -56,12 +56,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nmnroy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=nmnroy&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nmnroy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nmnroy&theme=tokyonight&hide_border=true" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmnroy&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmnroy&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="42%" />
 
 </div>
 
