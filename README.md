@@ -87,7 +87,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/nroy21649-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nroy21649@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://nmnroy.github.io/Personal_portfolio/)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://nmnroy.github.io/Personal_portfolio/](https://personal-portfolio-plum-zeta-25hnyd6is1.vercel.app/))
 
 </div>
 
